@@ -13,4 +13,5 @@
 2. Next, after getting the users run the `get_repos_csv.py` to get the top 500 repositories of each users in `users.csv` file.
 - this will generate the `repositories.csv` file.
 
+3. Next, after generating the required files use the run the "code.py" using the repository and users csv file generated to get outputs to the questions of the project.
 # Ensure you have a valid GitHub API `token` and install the python's `requests` library.
